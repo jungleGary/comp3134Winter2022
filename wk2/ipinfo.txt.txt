@@ -1,0 +1,4 @@
+sentai film works = 	23.227.38.32
+sony = 52.54.18.9
+funimation = 45.60.73.224
+bestbuy = 	104.76.100.220

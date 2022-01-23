@@ -1,0 +1,10 @@
+mcdonalds = mcdonalds.com
+
+burger king = bk.com
+
+bandai = bandai.com
+
+nintendo = nintendo.com
+
+aniplexusa = aniplexusa.com
+

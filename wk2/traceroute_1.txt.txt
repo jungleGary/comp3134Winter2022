@@ -1,0 +1,7 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# traceroute crunchyroll.com
+traceroute to crunchyroll.com (104.18.22.9), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.6.91 (10.78.6.91)  1.592 ms 10.78.6.97 (10.78.6.97)  1.158 ms 10.78.4.4 (10.78.4.4)  1.105 ms
+ 3  138.197.249.78 (138.197.249.78)  1.446 ms 138.197.249.82 (138.197.249.82)  1.404 ms  1.358 ms
+ 4  cloudflare.ip4.torontointernetxchange.net (206.108.34.208)  5.349 ms  5.307 ms  5.330 ms
+ 5  104.18.22.9 (104.18.22.9)  2.143 ms  2.092 ms  2.053 ms
